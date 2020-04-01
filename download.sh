@@ -8,4 +8,4 @@ wget \
   --level=1 \
   https://www.ed.ac.uk/news/covid-19
 date > date.txt
-ls
+git add --all
